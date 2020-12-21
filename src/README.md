@@ -10,4 +10,3 @@ sequence at one time, then gives an output. The GenomeSequenceThread class, uses
 we could see that using concurrency could make the execution time of same targeted goal/result
 shorter, that shows the superiority of the method. 
 
-Jieqing
