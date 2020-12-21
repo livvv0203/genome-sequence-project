@@ -1,8 +1,7 @@
 /**
  * Jieqing Liu
- * Boston University Fall 2020
+ * Boston University
  * Advanced JAVA Technique
- * Project 8
  */
 package com.jieqing;
 
